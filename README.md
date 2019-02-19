@@ -1,2 +1,2 @@
 # Django-Projects
-These repository 
+This project covers basic assignment related to Django
